@@ -1,2 +1,2 @@
 # FTP-Viewer
- Simple Script for displaying a folder of images. Far from complete or practical at this point.
+ Simple Script for displaying a folder of images. Far from complete or practical at this point. Just a note - there's no guarantee or support for any of the files here. Also not practical for a large number of images. Put the files on a server running PHP - put some images in the images folder and enjoy!
